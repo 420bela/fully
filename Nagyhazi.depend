@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1699799467 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\beolvas.c
+	"beolvas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1700219241 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"beolvas.h"
+	"excelbeolvas.h"
+	"bemenet.h"
+	"dicslist.h"
+	"idoszam.h"
+	<windows.h>
+
+1699818579 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\beolvas.h
+	<stdio.h>
+
+1700219387 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\excelbeolvas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"excelbeolvas.h"
+	"beolvas.h"
+
+1699818579 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\excelbeolvas.h
+	"beolvas.h"
+
+1699727505 source:c:\users\zephyrus\desktop\nagyhazi\bemenet.c
+	<stdio.h>
+	"bemenet.h"
+
+1699727548 c:\users\zephyrus\desktop\nagyhazi\bemenet.h
+
+1699818579 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\bemenet.h
+
+1699728152 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\bemenet.c
+	<stdio.h>
+	"bemenet.h"
+
+1699777320 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1699818972 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\dicslist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dicslist.h"
+
+1699800400 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\dicslist.h
+	"bemenet.h"
+
+1699800726 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\idoszam.c
+	<time.h>
+
+1699800699 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\idoszam.h
+
+1700055209 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\test.c
+
